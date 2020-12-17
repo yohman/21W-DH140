@@ -13,7 +13,7 @@ Yoh Kawano (yohman@gmail.com)
 
 _Please email in advance for appointments_
 
-* Yoh: Thursdays 1PM - 3PM and by appointment
+* Yoh: Fridays 1PM - 3PM and by appointment
 
 ## Course Description
 
