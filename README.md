@@ -121,7 +121,7 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/KLXYXiaHef1ABNcx8)
+*   Fill out the [pre-class survey](https://forms.gle/7WyfGAJNept5j2Cw7)
 *   If you do not have a GitHub account, create one for the class
     *   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
