@@ -1,44 +1,40 @@
-# UP206A: Introduction to GIS and Spatial Data Science
+# DH140: Coding for Humanists
 
 Winter 2021
 
-Mondays 2pm - 5pm
+Wednesdays 2pm - 5pm
 
 ## Instructor: 
 
 Yoh Kawano (yohman@gmail.com)
 
-## Teaching Assistants:
-
-Chris Giamarino (cgiamarino@g.ucla.edu)
 
 ## Office Hours: 
 
 _Please email in advance for appointments_
 
-* Yoh: Thursdays 1PM - 3PM and by appointment
-* Chris: Thursdays 10AM-12PM and by appointment
+* Yoh: Fridays 1PM - 3PM and by appointment
 
 ## Course Description
 
-Welcome to the world of planning and spatial thinking. In recent years, our relationship with maps and map-making has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they can produce similar, if not, more powerful and creative ways that advance spatial exploration. 
+Welcome to the world of coding and spatial thinking in the digital humanities. In recent years, our relationship with maps and map-making has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they allow us to produce similar, if not, more powerful and creative ways that advance digital data exploration. 
 
-Our understanding of social phenomena through spatial constructs in urban data allows us to address questions on social justice, the environment, transportation, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares  you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
+Our understanding of social phenomena through digital and spatial constructs in urban data allow us to address questions on social justice, the environment, transportation, urban histories, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares  you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
 
-The goal for this course is to expose you to the foundations of spatial data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in planning? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, spatial analysis through Python Libraries, and subsequently, through advanced geoprocessing will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
+The goal for this course is to expose you to the foundations of coding and data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in the humanities? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, data analysis through Python Libraries, and subsequently, through advanced spatial analysis will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize digital data for humanistic practices and research.
 
 While there are no prerequisites for taking this course, people who are approaching programming for the first time will admittedly find the course to be intense and challenging.
 
-## Learning Objectives for UP206A
+## Learning Objectives 
 
-At the conclusion of this course, students will be able to critically describe, analyze, and visualize spatial data for planning practices and research.
+At the conclusion of this course, students will be able to critically describe, analyze, and visualize digital data for humanities research.
 
 Specifically, students will learn to:
 
-- Demonstrate the value of data for planning purposes through discovery, exploration, and analysis
+- Demonstrate the value of data for humanistic inquiry through discovery, exploration, and analysis
 - Critically evaluate data and create frameworks to prepare data for research
-- Apply data science programming techniques to produce relevant visualizations that inform urban policy
-- Learn to visualize data spatially to communicate the importance of place-based informatics
+- Apply data science programming techniques to produce relevant visualizations that inform humanistic research
+- Learn to visualize data geo-temporally to communicate the importance of place-based and time-based informatics
 - Learn to produce publication-ready scholarly materials in the form of tables, charts, and maps
 
 ## Inspirations
@@ -131,9 +127,9 @@ Weekly content is subject to change, and will be modified as needed based on cla
 *   Make sure you can log into the class JupyterHub
     *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-### [Week 1 (10/5): Introduction to spatial data science](Weeks/Week01)
+### [Week 1 (10/5): Introduction to coding and data science](Weeks/Week01)
 
-### [Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition](Weeks/Week02)
+### [Week 2 (10/12): Data in the digital humanities: The challenge in data acquisition](Weeks/Week02)
 - [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
 
 ### [Week 3 (10/19): Understanding communities: Census data profiles](Weeks/Week03)
