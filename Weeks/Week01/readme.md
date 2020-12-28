@@ -20,11 +20,14 @@ First, a definition:
 
 [Source: Spatial@UCSB](http://sdss2019.spatial-data-science.net/)
 
-*   How is it relevant to planning?
-*   What makes this course unique?
+#### Discussion
+
+*   Why "spatial"?
+*   How is it relevant to the digital humanities?
+*   What do you hope to gain from the course?
 
 ### Groups
-*   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+*   Next week we will create our groups. If you must drop the course, please do so before the next class... There is also a long wait list!
 
 ## Hands on
 *   Introducing GitHub
@@ -53,9 +56,8 @@ This week's reading assignment is for you to find an article, blog, journal, cha
 
 The instructors will select a few of the readings for discussion in week 2.
 
-You have two options on how to submit your reading assignment. 
+Submit your assignment by:
 
-1. Option A: Upload your assignment as a pdf to your github repo.
-1. Option B (preferred): Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
+* Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
 
 
