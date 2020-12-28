@@ -9,7 +9,6 @@
 *   Introductions
 *   Who are you? Survey results...
 *   Mid-term and final projects will be based on groups (pairings)
-*   Where did ArcMap go?
 *   Questions? Concerns?
 
 ###   What is Spatial Data Science?
@@ -42,7 +41,7 @@ There are three deliverables this week. Each are due on Sunday (October 11) by m
 
 ### #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](https://github.com/yohman/up206a/blob/master/Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “dh140-yourfirstname” - [Instructions](Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
 ### #2. Submit two or more datasets
