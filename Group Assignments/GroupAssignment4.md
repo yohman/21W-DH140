@@ -1,14 +1,6 @@
-# Group Assignment #4: Spatial Analysis
+# Group Assignment #4: Twitter Analysis
 
-This assignment will focus on some of the more advanced spatial analyses techniques learned in class. With one or more datasets you are exploring for your final project, do **one** of the following:
-
-- Find tendencies for spatial clustering in your data by conducting a spatial autocorrelation analysis. Your results must include a global Moran's I statistic, followed by a local spatial autocorrelation with a moran's plot that indicates a P-value and a scatterplot with HH, HL, LH, and LL values. Produce a final output in the form of a map that indicates the location of statistically significant spatial clusters.
-
-and/or...
-
-- Conduct a thorough point pattern analysis of your dataset. Your notebook should include a KDE plot, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. kde plots for different categorical values).
-
-Complete your notebook with a markdown cell that succinctly explains the map's interpretation, what you are visualizing and why it is interesting: tell us its story. This story should be accompanied by any relevant descriptive statistics, as needed, to round out the picture.
+This assignment will focus on a qualitative exploration of your subject of interest. Choose workflow that is relavant to your research inquiry (e.g. following specific user timelines, hashtags, or search terms). Using the twitter analysis techniques we learned in class, visualize interesting aspects of your data. Create at least 3 data visualizations. Each visualization must be followed by a markdown cell that succinctly explains the plot's interpretation and what you are visualizing and why it is interesting: tell us its story. This story should be accompanied by any relevant descriptive statistics, as needed, to round out the picture.
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
