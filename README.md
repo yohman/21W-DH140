@@ -63,6 +63,22 @@ All assignments, unless otherwise specified, must be posted on your individual G
 - Mid-term 20%
 - Final report 30%
 
+| Task | Number of items | Points |
+|------|-----------------|--------|
+| Participation and individual assignments | 7-10 | 100 |
+| Group Assignments | 4 | 400 |
+| Mid-term | 1 | 200 |
+| Final report | 1 | 300 |
+
+## Grading criteria
+
+All assignments are graded on the following criteria:
+
+- **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as files on your github account. The timestamp on the files on your github account will be used to determine whether they were submitted on time. Any late assignments will be marked down.
+- **Cleanliness**: Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
+- **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
+- **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
+
 ## Remote zoom learning expectations
 
 Welcome to the new normal. It is expected that the quarter will be conducted remotely and via zoom in its entirety. The good news is that this course—coding, data, maps!—is situated perfectly for remote learning. Nevertheless, there are some expectations and guidelines I would like to enforce in order to make this experience as fruitful and productive for all of us. First, make sure that your Internet connection and equipment are set up to use Zoom and able to share audio and video during class meetings. Let me know if there is a gap in your technology set-up as soon as possible, and we can see about finding solutions.
