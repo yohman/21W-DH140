@@ -17,9 +17,9 @@ _Please email in advance for appointments_
 
 ## Course Description
 
-Welcome to the world of coding and spatial thinking in the digital humanities. In recent years, our relationship with maps and map-making has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they allow us to produce similar, if not, more powerful and creative ways that advance digital data exploration. 
+Welcome to the world of coding and spatial thinking in the digital humanities. In recent years, our relationship with digital data and spatial visualization has changed dramatically. No longer are we limited to a mode of map-making that is dominated by industry giants like Google and ESRI. Instead, a suite of data-science tools have matured to a point where they allow us to produce similar, if not, more powerful and creative ways that advance digital data exploration. 
 
-Our understanding of social phenomena through digital and spatial constructs in urban data allow us to address questions on social justice, the environment, transportation, urban histories, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares  you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data’s journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a data science perspective.
+Our understanding of social phenomena through digital and spatial constructs in urban data allow us to address questions on social justice, the environment, transportation, urban histories, community development and design, amongst many other themes, and how these factors may affect different population groups in different ways. This course prepares you for challenges in urban data beyond off-the-shelf cartographic approaches. It looks at the various components of data's journey—acquisition, exploration, modeling, and communication through visualization—and how it enables and advances your research from a coding and data science perspective.
 
 The goal for this course is to expose you to the foundations of coding and data science. Where once there was a dearth of available digital information, we now live in a world of too much data. How can these data be transformed to human expressions and narratives that are utilized in the humanities? We begin with an introduction to various data science tools, and review the basics of programming with Python. Once a foundation of Python programming and data wrangling is achieved, data analysis through Python Libraries, and subsequently, through advanced spatial analysis will be introduced. All lessons will be based on “real” data with analytical methods addressing relevant and contemporary urban problems. At the conclusion of this course, students will be able to critically describe, analyze, and visualize digital data for humanistic practices and research.
 
@@ -62,6 +62,22 @@ All assignments, unless otherwise specified, must be posted on your individual G
    - There will be four group assignments throughout the quarter. Each assignment will be worth 25% of the total group assignment grade.
 - Mid-term 20%
 - Final report 30%
+
+| Task | Number of items | Points |
+|------|-----------------|--------|
+| Participation and individual assignments | 7-10 | 100 |
+| Group Assignments | 4 | 400 |
+| Mid-term | 1 | 200 |
+| Final report | 1 | 300 |
+
+## Grading criteria
+
+All assignments are graded on the following criteria:
+
+- **Timeliness**: Unless otherwise specified, all assignments are due at midnight of the day before the next class. For most assignments, you will be asked to submit them as files on your github account. The timestamp on the files on your github account will be used to determine whether they were submitted on time. Any late assignments will be marked down.
+- **Cleanliness**: Nobody wants to go through unreadable code! Make sure to document your work accordingly, providing markdown cells and comments throughout.
+- **Does it work?**: Unless you purposefully created code cells that produce errors to make a point, notebook assignments must run from top to bottom without any errors. Verify this by restarting the kernel, and running all cells.
+- **Thinking out of the box**: It is easy to copy an existing notebook, and replace datasets and parameters to fulfill an assignment. But how well have you/your group grasped the underlying concepts? This can be demonstrated by your ability to think outside the box, and *applying* rather than *copying* each step of a given assignment. For example, you may experiment with functions not demonstrated in class, or create your own workflow that borrows certain concepts learned in class to make them your own.
 
 ## Remote zoom learning expectations
 
@@ -121,36 +137,38 @@ Weekly content is subject to change, and will be modified as needed based on cla
 
 ### Preparation
 
-*   Fill out the [pre-class survey](https://forms.gle/KLXYXiaHef1ABNcx8)
+*   Fill out the [pre-class survey](https://forms.gle/NdM1keZ7Nvx7DVCW8)
 *   If you do not have a GitHub account, create one for the class
     *   [https://github.com/](https://github.com/)
 *   Make sure you can log into the class JupyterHub
     *   [JupyterHub](https://jupyter.idre.ucla.edu) (choose UCLA)
 
-### [Week 1 (10/5): Introduction to coding and data science](Weeks/Week01)
+### [Week 1 (1/6): Introduction to coding and data science](Weeks/Week01)
 
-### [Week 2 (10/12): Data in the digital humanities: The challenge in data acquisition](Weeks/Week02)
+### [Week 2 (1/13): Data in the digital humanities: The challenge in data acquisition](Weeks/Week02)
 - [Group assignment #1: Project Proposal](Group%20Assignments/GroupAssignment1.md)
 
-### [Week 3 (10/19): Understanding communities: Census data profiles](Weeks/Week03)
+### [Week 3 (1/20): Understanding communities: Census data profiles](Weeks/Week03)
 - [Group assignment #2: Census Data Exploration](Group%20Assignments/GroupAssignment2.md)
 
-### [Week 4 (10/26): Open Street Maps](Weeks/Week04)
+### [Week 4 (1/27): Open Street Maps](Weeks/Week04)
 
-### [Week 5 (11/2): Open data and APIs](Weeks/Week05)
+### [Week 5 (2/3): Open data and APIs](Weeks/Week05)
 
-### [Week 6 (11/9): Mid-terms](Weeks/Week06)
+### [Week 6 (2/10): Mid-terms](Weeks/Week06)
 - [Midterms](Midterm%20and%20Finals)
 
-### [Week 7 (11/16): Geocoding, multiple overlays, and functions](Weeks/Week07)
+### [Week 7 (2/17): Geocoding, multiple overlays, and functions](Weeks/Week07)
 - [Group assignment #3: Data Visualization](Group%20Assignments/GroupAssignment3.md)
 
-### [Week 8 (11/23): Spatial statistics](Weeks/Week08)
+### [Week 8 (2/24): Twitter scraping](Weeks/Week08)
 
-### [Week 9 (11/30): Point pattern analysis and sentiment analysis](Weeks/Week09)
+### [Week 9 (3/3): Qualitative analysis, sentiment analysis](Weeks/Week09)
 - [Group assignment #4: Spatial Analysis](Group%20Assignments/GroupAssignment4.md)
 
-### [Week 10 (12/7): Story maps and interactive web mapping](Weeks/Week10)
+### [Week 10 (3/10): Story maps and interactive web mapping](Weeks/Week10)
+
+### Final Presentations (3/17)
 
 ## Resources:
 

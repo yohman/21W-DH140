@@ -9,7 +9,6 @@
 *   Introductions
 *   Who are you? Survey results...
 *   Mid-term and final projects will be based on groups (pairings)
-*   Where did ArcMap go?
 *   Questions? Concerns?
 
 ###   What is Spatial Data Science?
@@ -20,16 +19,19 @@ First, a definition:
 
 [Source: Spatial@UCSB](http://sdss2019.spatial-data-science.net/)
 
-*   How is it relevant to planning?
-*   What makes this course unique?
+#### Discussion
+
+*   Why "spatial"?
+*   How is it relevant to the digital humanities?
+*   What do you hope to gain from the course?
 
 ### Groups
-*   Next week we will create our groups! If you must drop the course, please do so before the next class... There is also a long wait list!
+*   Next week we will create our groups. If you must drop the course, please do so before the next class... There is also a long wait list!
 
 ## Hands on
 *   Introducing GitHub
 *   Introducing JupyterHub
-    * [Getting started](https://github.com/yohman/up206a/blob/master/Git%20related/01%20-%20Getting%20started%20every%20week.md)
+    * [Getting started](../../Git%20related/01%20-%20Getting%20started%20every%20week.md)
     
 *   Intro to Python
 
@@ -39,7 +41,7 @@ There are three deliverables this week. Each are due on Sunday (October 11) by m
 
 ### #1. Create a GitHub account, and start a new repo
 
-*   Create a GitHub account, and create a project repo named “up206a-yourfirstname” - [Instructions](https://github.com/yohman/up206a/blob/master/Git%20related/02%20-%20Create%20your%20class%20repo.md)
+*   Create a GitHub account, and create a project repo named “dh140-yourfirstname” - [Instructions](../../Git%20related/02%20-%20Create%20your%20class%20repo.md)
 *   Create a Readme.md file in your GitHub class repo, and introduce your Data Science project space (hint: use this [markdown guide](https://guides.github.com/features/mastering-markdown/))
 
 ### #2. Submit two or more datasets
@@ -53,9 +55,8 @@ This week's reading assignment is for you to find an article, blog, journal, cha
 
 The instructors will select a few of the readings for discussion in week 2.
 
-You have two options on how to submit your reading assignment. 
+Submit your assignment by:
 
-1. Option A: Upload your assignment as a pdf to your github repo.
-1. Option B (preferred): Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
+* Create a markdown file in your repo titled `Week1_reading_assignment.md` and submit your assignment using markdown code.
 
-
+ 
