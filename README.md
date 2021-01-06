@@ -9,6 +9,10 @@ Wednesdays 2pm - 5pm
 Yoh Kawano (yohman@gmail.com)
 
 
+## Special Technology Assistant:
+
+Ben Winjum (bwinjum@ucla.edu)
+
 ## Office Hours: 
 
 _Please email in advance for appointments_
