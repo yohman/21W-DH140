@@ -5,7 +5,7 @@
 ## Lecture
 ###   Overview of the course
 
-- [Presentation slides](https://docs.google.com/presentation/d/1EQMRE6VA0XRvm2Fc3wZlgBToBLxD77Tnh5xCdbhcTWc/edit?usp=sharing)
+- [Presentation slides](https://docs.google.com/presentation/d/1UktUIh-oiYDx9eKrT2u6rgs7J6yQ2CC6I-cU2ruu4ck/edit?usp=sharing)
 
 ### Groups
 *   Next week we will create our groups! 
