@@ -4,7 +4,7 @@ In order to submit assignments, store data, and create your own notebooks, you w
 
 ### Creating a new repo
 
-Go to GitHub and log in. Click on "repositories" and "new." Follow the screen directions below, but make sure to name your repo `dh140-yourfirstname`.
+Go to GitHub and log in. Click on "repositories" and "new." Follow the screen directions below, but make sure to name your repo `dh140`.
 
 <kbd><img src="images/git1.png"></kbd>
 
