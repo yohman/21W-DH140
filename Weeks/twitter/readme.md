@@ -22,7 +22,7 @@ or `filter` to collect tweets in realtime:
 
 ## 3. Get rid of retweets
 
-`utils/noretweets.py tweets.jsonl > tweets_noretweets.jsonl`
+`python utils/noretweets.py tweets.jsonl > tweets_noretweets.jsonl`
 
 ## 4. Dehydrate the tweets
 
