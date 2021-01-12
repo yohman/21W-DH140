@@ -1,36 +1,17 @@
-# Week 2 (10/12): Data in Urban Studies: The challenge in data acquisition
+# Week 2: Data in Urban Studies: The challenge in data acquisition
 
 ## Agenda
-
+*   Attention! **Next class is on Wednesday, January 20th, at 6pm**
 *   Welcome to week 2
     * Concerns? Questions?
-      * A review of [midterm and final requirements](https://github.com/yohman/up206a/tree/master/Midterm%20and%20Finals)
     * Office hours - we're here for you!
+*   Lab session
+*   Break
 *   Group creation
-    * Your elevator pitch
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
-*   A selection from last week's readings
+*   A discussion on a selection from last week's readings
 *   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
-*   Next week: Census data and the first of our conversation series
-
-## A first look at data resources
-*   Census data: [https://data.census.gov/](https://data.census.gov/) 
-*   Census reporter: [https://censusreporter.org/](https://censusreporter.org/) 
-*   Social Explorer (requires UCLA VPN for full access): [https://www.socialexplorer.com/explore-maps](https://www.socialexplorer.com/explore-maps)  
-*   LA city data portal: [https://data.lacity.org/](https://data.lacity.org/) 
-*   LA county data portal: [https://data.lacounty.gov/](https://data.lacounty.gov/) 
-*   LA Metro: [https://developer.metro.net/](https://developer.metro.net/) 
-*   LA Times: [http://boundaries.latimes.com/sets/](http://boundaries.latimes.com/sets/) 
-*   Census TIGER/Line: [https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html) 
-*   NHGIS: [https://www.nhgis.org/](https://www.nhgis.org/) 
-*   NHTS: [https://nhts.ornl.gov/](https://nhts.ornl.gov/) 
-*   LATCH: [https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey](https://www.bts.gov/statistical-products/surveys/local-area-transportation-characteristics-households-latch-survey) 
-
-Other datasets
-* [US wide police shootings 2015 to present](https://github.com/washingtonpost/data-police-shootings)
-* [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
-* [The Los Angeles Times' independent tally of coronavirus cases in California](https://github.com/datadesk/california-coronavirus-data)
 
 ## Hands on
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
@@ -61,10 +42,18 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 
 ### Individual assignment: Data Exploration
 *   Find and download a dataset of your choice. This can be a shapefile, csv file, or json file. If you do not have a dataset, you can download one from the [Los Angeles Times' "Mapping L.A. Boundaries"](http://boundaries.latimes.com/sets/) page.
-*   Launch JupyterHub, import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
+*   Launch JupyterHub and pload the dataset to your JupyterHub space
+*   Create a new python notebook (do not work on a copy of the lab notebook)
+*   Add an introductory markdown cell with a title (header) and paragraph that describes what you are doing
+*   Import the data, and conduct data exploration, making sure to document your steps and your preliminary findings. At minimum, run the following commands:
     * `.shape`
     * `.info`
     * `.head()`
+    * `.plot()`
+    * `.value_counts()`
+    * run a query on the data that filters it in some way
+*   For each code cell, add a markdown cell that explains what you are doing
+*   Add markdown cells that describe the output of each operation
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
 ### Reading assignment:
