@@ -32,6 +32,9 @@ Convert all your tweets to just their IDs:
 
 ## 5. Install the "hydrator"
 
+What is the hydrator? https://github.com/DocNow/hydrator
+
+Install from here:
 https://github.com/DocNow/hydrator/releases
 
 ## 6. 
