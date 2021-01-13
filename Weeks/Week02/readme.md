@@ -1,6 +1,7 @@
 # Week 2: Data in Urban Studies: The challenge in data acquisition
 
 ## Agenda
+*   This session will be recorded
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - Let's meet!
