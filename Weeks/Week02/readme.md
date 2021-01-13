@@ -2,6 +2,7 @@
 
 ## Agenda
 *   This session will be recorded
+*   Log in to JupyterHub with this [gitpuller link](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master) now
 *   Welcome to week 2
     * Concerns? Questions?
     * Office hours - Let's meet!
