@@ -37,7 +37,13 @@ What is the hydrator? https://github.com/DocNow/hydrator
 Install from here:
 https://github.com/DocNow/hydrator/releases
 
-## 6. 
+## 6. Hydrate the tweets
+
+Launch the hydrator app, and add your dehydrated tweet_ids text file:
 <kbd><img src="images/hydrator1.png"></kbd>
 
+Start the hydration (it may ask you to name the output file. Make sure to give it a .csv extension):
 <kbd><img src="images/hydrator2.png"></kbd>
+
+Once you are done, click on the csv button again, to save the file (again).
+
