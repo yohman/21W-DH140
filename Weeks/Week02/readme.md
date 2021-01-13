@@ -13,6 +13,12 @@
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
 *   A discussion on a selection from last week's readings
+    * [This Will Open Your Eyes to See the Main Reasons for Covid Death](https://medium.com/swlh/this-will-open-your-eyes-to-see-the-main-reasons-for-covid-death-2a3b7828e56)
+        * Claire
+    * [Parler’s amateur coding could come back to haunt Capitol Hill rioters, By Dan Goodin](https://arstechnica.com/information-technology/2021/01/parlers-amateur-coding-could-come-back-to-haunt-capitol-hill-rioters/)
+        * Juliette
+    * [Understanding Data Bias](https://towardsdatascience.com/survey-d4f168791e57)
+        * Ainsleigh
 *   [Our class data library](https://docs.google.com/spreadsheets/d/1m67s0-SptURpRLr6ISq6Fy7e_66LcSPLjfPjqhZxC8M/edit?usp=sharing)
 
 ## Hands on
