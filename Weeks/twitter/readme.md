@@ -45,5 +45,7 @@ Launch the hydrator app, and add your dehydrated tweet_ids text file:
 Start the hydration (it may ask you to name the output file. Make sure to give it a .csv extension):
 <kbd><img src="images/hydrator2.png"></kbd>
 
-Once you are done, click on the csv button again, to save the file (again).
+Once you are done, click on the csv button again, to save the file (again... I know it's confusing):
+<kbd><img src="images/hydrator3.png"></kbd>
+
 
