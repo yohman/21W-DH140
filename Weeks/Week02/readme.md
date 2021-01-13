@@ -1,13 +1,13 @@
 # Week 2: Data in Urban Studies: The challenge in data acquisition
 
 ## Agenda
-*   Attention! **Next class is on Wednesday, January 20th, at 6pm**
 *   Welcome to week 2
     * Concerns? Questions?
-    * Office hours - we're here for you!
+    * Office hours - Let's meet!
 *   Lab session
 *   Break
 *   Group creation
+    * Refer to this [google spreadsheet](https://docs.google.com/spreadsheets/d/1jZhkA7OnDJJyMcV9qxB0tL8kHtu26W7F2uyazqPEpWM/edit#gid=459706370)
     * Breakout rooms based on interests
     * Google doc to enter your group pairings
 *   A discussion on a selection from last week's readings
@@ -17,7 +17,7 @@
 *   [Python Boot Camp Review](W201-PythonReview.ipynb)
 *   [Intro to the geopandas library using Metro data](W202-PythonandMetro.ipynb)
 
-## Assignments (due 23:59 Sunday, the day before class)
+## Assignments (due 23:59 Tuesday, the day before class)
 ### Group Assignment #1: Project Proposal
 The course will largely be guided by your final project, which will be conducted in pairs. Meet with your partner, discuss and identify a research question, and begin the collection of data, its analysis, and determine how it may answer your question. Understand that this may change later, especially as we learn more about what we can do with our methods, and also, as you find the data sources that can or cannot support your research.
 
@@ -57,10 +57,6 @@ Create a markdown page (optionally, you may choose to upload a PDF), which will 
 *   Add your first data exploration Jupyter Notebook to your GitHub repository
 
 ### Reading assignment:
-
-![Silvia](https://knowledge.luskin.ucla.edu/wp-content/uploads/2016/11/rsz_silvia.jpg)
-
-Next week we begin our first episode of our "Conversation Series." Our guest will be [Silvia Gonzales](https://luskin.ucla.edu/person/silvia-gonzalez), a former director of the [Center for Neighborhood Knowledge](https://knowledge.luskin.ucla.edu/), and the department's most recent PhD graduate. Read her paper on gentrification, and prepare to ask her some questions next week.
 
 *   ["Triangulating Neighborhood Knowledge to Understand Neighborhood Change: Methods to Study Gentrification" by Anastasia Loukaitou-Sideris, Silvia Gonzales, and Paul Ong](../../readings/sideris_gonzales_ong.pdf)
 
