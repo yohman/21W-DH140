@@ -38,3 +38,6 @@ Install from here:
 https://github.com/DocNow/hydrator/releases
 
 ## 6. 
+<kbd><img src="images/hydrator1.png"></kbd>
+
+<kbd><img src="images/hydrator2.png"></kbd>
