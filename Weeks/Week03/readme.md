@@ -48,7 +48,8 @@ Write a short reaction paragraph as a markdown readme file in your GitHub repo t
 * What do you think you (and your cohort) can do with open data to make this world a better place?
 
 **About Rachel**
-<img src="https://lh6.googleusercontent.com/CwlRS3CbsTRz_QIqtHUMEjSTl8crdxZv42QYnAAHH4sQ5v51W-Y_I702rUzQdgZ-Kr0X4uyCdO83Sxtae3VKfoDUj88PMKI0jYSas13bb2HEODy1TsQ=w1280" width=250>
+
+<img src="https://lh6.googleusercontent.com/CwlRS3CbsTRz_QIqtHUMEjSTl8crdxZv42QYnAAHH4sQ5v51W-Y_I702rUzQdgZ-Kr0X4uyCdO83Sxtae3VKfoDUj88PMKI0jYSas13bb2HEODy1TsQ=w1280" width=200>
 
 Rachel Levine is the Missing Maps Program Coordinator for the American Red Cross, where she has worked for the last 5 years.  Before earning her MA in Activism and Social Change at the University of Leeds, she worked for the US Census Bureau. When she isn’t mapping she can be found hiking or hanging out in parks.
 
