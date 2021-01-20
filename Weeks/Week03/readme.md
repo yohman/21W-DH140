@@ -1,7 +1,9 @@
 # Week 3
 
+## This session will be recorded
 
 ## Lecture
+*   "Pull" the latest material by logging into JupyterHub [(Class gitpuller link)](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
 *   Welcome to week 3!
     * Concerns?
     * How to ask a question
