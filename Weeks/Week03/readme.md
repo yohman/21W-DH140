@@ -35,9 +35,20 @@ For this group assignment, each group member will create and submit a separate J
 1.   Run the cells in the notebook, and make sure the notebook "reads" from top to bottom, telling a story
 1.   Upload each Jupyter Notebook along with the associated census data file to your group repo
 
-### Reading Assignment
+### Individual Assignment
 
-*  [OSMnx: New methods for acquiring, constructing, analyzing, and
-visualizing complex street networks](https://www.researchgate.net/publication/309738462_OSMnx_New_Methods_for_Acquiring_Constructing_Analyzing_and_Visualizing_Complex_Street_Networks)
-*  [Off the Grid… and Back Again? The Recent Evolution of American Street Network Planning and Design](../../readings/boeing_off_the_grid_2020.pdf)
+Watch the following video clip of Rachel Levine:
 
+*  [Rachel Levine on using Open Street Maps for humanitarian causes](https://youtu.be/5zastnYViHU)
+
+Write a short reaction paragraph as a markdown readme file in your GitHub repo titled `Week3_reading_assignment.md`. You are free to write on whatever aspect of the presentation spoke to you. Some example reaction topics may be:
+
+* Your thoughts on using open data for humanitarian causes
+* Your thoughts on how open data can be used for different causes
+* What do you think you (and your cohort) can do with open data to make this world a better place?
+
+**About Rachel**
+
+<img src="https://lh6.googleusercontent.com/CwlRS3CbsTRz_QIqtHUMEjSTl8crdxZv42QYnAAHH4sQ5v51W-Y_I702rUzQdgZ-Kr0X4uyCdO83Sxtae3VKfoDUj88PMKI0jYSas13bb2HEODy1TsQ=w1280" width=200>
+
+Rachel Levine is the Missing Maps Program Coordinator for the American Red Cross, where she has worked for the last 5 years.  Before earning her MA in Activism and Social Change at the University of Leeds, she worked for the US Census Bureau. When she isn’t mapping she can be found hiking or hanging out in parks.
