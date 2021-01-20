@@ -2,18 +2,12 @@
 
 ## This session will be recorded
 
-## Lecture
+## Today's Agenda
 *   "Pull" the latest material by logging into JupyterHub [(Class gitpuller link)](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
 *   Welcome to week 3!
-    * Concerns?
-    * How to ask a question
-      * Ask Google and Stackoverflow first
-      * Provide minimum reproducible code that produces error
-      * Include a notebook file (.ipynb) AND associated data files (if shapefile, zip all files)
-      * Alternatively, provide a link to a github repo that has your notebook and datafiles
-
-## Hands on
-*   Census data exploration in python using pandas
+    * Concerns? Questions? Gripes?
+*   [Code review](https://doc)s.google.com/presentation/d/1mOX2ayxhWaX0slug-108L-nEEuxS2XZcU7zoib-4KyA/edit?usp=sharing)
+*   Hands on lab: Census data exploration in python using pandas
 
 ## Assignments
 
