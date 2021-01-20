@@ -1,6 +1,6 @@
 # Week 3
 
-## This session will be recorded
+*This session will be recorded*
 
 ## Today's Agenda
 *   "Pull" the latest material by logging into JupyterHub [(Class gitpuller link)](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
