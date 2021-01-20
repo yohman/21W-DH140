@@ -41,7 +41,7 @@ Watch the following video clip of Rachel Levine and write a short reaction parag
 
 *  [Rachel Levine on using Open Street Maps for humanitarian causes](https://youtu.be/5zastnYViHU)
 
-![Rachel](https://lh6.googleusercontent.com/CwlRS3CbsTRz_QIqtHUMEjSTl8crdxZv42QYnAAHH4sQ5v51W-Y_I702rUzQdgZ-Kr0X4uyCdO83Sxtae3VKfoDUj88PMKI0jYSas13bb2HEODy1TsQ=w1280)
+![Rachel](https://lh6.googleusercontent.com/CwlRS3CbsTRz_QIqtHUMEjSTl8crdxZv42QYnAAHH4sQ5v51W-Y_I702rUzQdgZ-Kr0X4uyCdO83Sxtae3VKfoDUj88PMKI0jYSas13bb2HEODy1TsQ=w200)
 
 Rachel Levine is the Missing Maps Program Coordinator for the American Red Cross, where she has worked for the last 5 years.  Before earning her MA in Activism and Social Change at the University of Leeds, she worked for the US Census Bureau. When she isn’t mapping she can be found hiking or hanging out in parks.
 
