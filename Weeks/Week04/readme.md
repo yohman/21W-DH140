@@ -3,13 +3,16 @@
 
 ## Agenda 
 - This session will be recorded
-- Log in to JupyterHub first with the [gitpuller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
+- click on the link below to "pull" the latest course material into your Jupyter Hub.
+    - [DH140 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
 - As always... any concerns?
 - Hands on lab/lecture
-    - Creating isochrone maps with Open Street Map data
+    - Open Street Map
+    - functions
+    - loops
 - Break
-- Chris's code review session
-- Eleanor's discussion room
+- Code review
+- Conversations/discussions on humanitarian mapping and open data
 
 ## Assignments
 
