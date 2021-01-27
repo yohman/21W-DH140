@@ -12,7 +12,7 @@
     - loops
 - Break
 - [Code review](https://docs.google.com/presentation/d/1mOX2ayxhWaX0slug-108L-nEEuxS2XZcU7zoib-4KyA/edit#slide=id.gb93f9c09cd_0_52)
-- Conversations/discussions on humanitarian mapping and open data
+- [Conversations/discussions](https://docs.google.com/document/d/1o6k0xQjJsoJn6GEirFOEHTfMf77SWJlEnJo7OjAE6Xg/edit) on humanitarian mapping and open data
 
 ## Assignments
 
