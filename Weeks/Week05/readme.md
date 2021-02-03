@@ -7,7 +7,7 @@
 - Break
 - Code review
     - [World projections](https://github.com/yohman/world-projections)
-    - [US Geographies](https://github.com/yohman/world-projections)
+    - [US Geographies](https://github.com/yohman/testroom/blob/main/Working%20with%20US%20geographies.ipynb)
 - Group status updates
 
 ## Assignments
