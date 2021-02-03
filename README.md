@@ -18,7 +18,7 @@ Ben Winjum (bwinjum@ucla.edu)
 _Please email in advance for appointments_
 
 * Yoh: Fridays 1PM - 3PM and by appointment
-    * [Schedule here](https://calendly.com/yohda/dh140)
+    * [Schedule here](https://calendly.com/yohda/officehours)
 
 ## Course Description
 
