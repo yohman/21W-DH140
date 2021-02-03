@@ -6,6 +6,8 @@
 - Lab: Open data, API’s and why that matters
 - Break
 - Code review
+    - [World projections](https://github.com/yohman/world-projections)
+    - [US Geographies](https://github.com/yohman/world-projections)
 - Group status updates
 
 ## Assignments
