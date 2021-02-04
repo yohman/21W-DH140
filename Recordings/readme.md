@@ -5,3 +5,4 @@ These recordings are password protected and only available to students who are c
 - Week 2 [Python and metro](https://ucla.zoom.us/rec/share/MRlk9bmL9310o1ZGE8-JR04NDW9zl2QP9ThJ1EqcHHs9dmBkzKjLOxdtLAepC2N6.oinoSLaUbSbE9NKC?startTime=1610575666000)
 - Week 3 [Python and census data](https://ucla.zoom.us/rec/share/tlFzsZIBodpnwPs4p5RG3xZMLIZzTg_DyESg4-_JjZ4IWI5dNFNOPXor0pPW66j-.VFBVTzUo4lvWIPL5?startTime=1611180332000)
 - Week 4 [Open street map](https://ucla.zoom.us/rec/share/VdAjL7DtX40lRJqCIgiWCtWfMTFiHasyY-mbvPysma8MueILlyq0RcsKpu-ZPe7Z.tUNIGsnSd4qND7MU?startTime=1611785231000)
+- Week 5 [Open data](https://ucla.zoom.us/rec/share/tlvbOZF_7j0MaP1yvyQVI7ogJ7wLzy2pEQ6exDygaN1QC-9N3HG3pN5ZUKIUeHbC.R5qblTCyNj-50Z7h)
