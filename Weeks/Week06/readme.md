@@ -15,8 +15,8 @@
 | Haiqi Zhou |  | Coral Mapping |
 | Ariel Hanasab |  | Which S&P 500 companies have the highest influence on the stock market? |
 | Annalise Gutierrez |  | 2020 COVID Impact Disparities |
-| MATTHEW DAVID LACH |  | Environmenntal Racism and Environmental Justice |
-| HOZUMI OSHIDA |  | Global Disaster A Case Study of Indonesia |
+| Matthew David Lach |  | Environmenntal Racism and Environmental Justice |
+| Hozumi Oshida |  | Global Disaster A Case Study of Indonesia |
 
 ## For next week
 
