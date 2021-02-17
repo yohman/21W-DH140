@@ -18,6 +18,15 @@
 ### Individual Assignment
 Make sure to read one (or more) of the following papers:
 
-- TBD
+![HyperCities](images/hypercities.jpg)
 
-Write a one paragraph reaction to the article, and come up with one or two questions for the author. Be prepared to ask your question next week.
+[HyperCities: Thick Mapping in the Digital Humanities](../../readings/HyperCities_2014_FINAL.pdf)
+
+- Read chapter "Mapping Events/Mapping Social Media" (pages 139-159)
+
+And either or both of:
+
+- Egypt (pages 159-171)
+- Japan (pages 171-202)
+
+Write a one paragraph reaction to the book chapter, and come up with one or two questions for the author. Be prepared to ask your question next week.
