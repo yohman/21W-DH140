@@ -16,7 +16,8 @@
 - [Instructions](../../Group%20Assignments/GroupAssignment3.md)
 
 ### Individual Assignment
-Make sure to read one (or more) of the following papers:
+
+Read the following:
 
 ![HyperCities](images/hypercities.jpg)
 
@@ -29,4 +30,4 @@ And either or both of:
 - Egypt (pages 159-171)
 - Japan (pages 171-202)
 
-Write a one paragraph reaction to the book chapter, and come up with one or two questions for the author. Be prepared to ask your question next week.
+Write a one paragraph reaction to the book chapter, and come up with one or two questions for the authors. Be prepared to ask your question next week.
