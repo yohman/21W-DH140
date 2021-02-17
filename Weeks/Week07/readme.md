@@ -2,10 +2,12 @@
 
 ## Agenda:
 
+- [DH140 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
 - Welcome to week 7. Concerns? Questions? Stories to share?
 - Hackathon time!
-- Sentiment Analysis
-- Command line python
+- Lab:
+  - Sentiment Analysis
+  - Command line python
 
 ## Assignments
 
