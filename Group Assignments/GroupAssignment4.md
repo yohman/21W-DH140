@@ -1,4 +1,4 @@
-# Group Assignment #3: A "functional" notebook
+# Group Assignment #4: A "functional" notebook
 
 There are two components to this group assignment.
 
