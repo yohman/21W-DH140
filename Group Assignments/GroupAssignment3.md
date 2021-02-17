@@ -6,7 +6,8 @@ Example:
 
 - Group member one archives tweets with a search term of interest on a single day in Los Angeles
 - Group member two archives tweets with the same search term on the same day in New York
-- The group produces word clouds, sentiment charts, and then uses a series of handpicked tweets that contribute to a compelling narrative
+- The group produces word clouds and sentiment charts that illustrate the similarities and differences between the two cities
+- The group uses a series of handpicked tweets that contribute to a compelling narrative
 
 At the end of the notebook, include a markdown cell that identifies each group member and describes their contribution to this assignment (one sentence each).
 
