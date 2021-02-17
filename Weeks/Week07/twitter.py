@@ -30,16 +30,10 @@ import sys
 parser = argparse.ArgumentParser(description='This twitter scraper allows you to search twitter for a specified term, for a given number of  times (--times default 10), for a given time interval (--rest default 60 seconds), and retrieve 500 tweets at a time. ')
 
 # request inputs
-# consumer_key = input("Your consumer key: ")
-# consumer_secret = input("Your consumer secret: ")
-# access_token = input("Your access token: ")
-# access_token_secret = input("Your access token secret: ")
-
-# your twitter keys/secrets/tokens
-consumer_key= 'jkAoLtO2238Dg1kiHAjALOplJ'
-consumer_secret= 'ex2geCJQWrkeQbkoHXoOgKvfZQvMUGgo3GkYS6yk0w8M4VNjJ7'
-access_token= '14411456-nsXO3zipKcNl3Ol42nXYfLtgLMAHu0N9SUdF6yXyJ'
-access_token_secret= 'wHuibwZwLNCQJAUS3Q8xP2sehloaXxlCi9DYPmmjkeuXS'
+consumer_key = input("Your consumer key: ")
+consumer_secret = input("Your consumer secret: ")
+access_token = input("Your access token: ")
+access_token_secret = input("Your access token secret: ")
 
 # required arguments
 parser.add_argument("--q", 
