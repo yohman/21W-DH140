@@ -11,13 +11,11 @@
 
 ## Assignments
 
-### Group Assignment #3
+### Group Assignment #3: Twitter Analysis
 
 - [Instructions](../../Group%20Assignments/GroupAssignment3.md)
 
 ### Individual Assignment
-
-Read the following:
 
 ![HyperCities](images/hypercities.jpg)
 
@@ -25,9 +23,10 @@ Read the following:
 
 - Read chapter "Mapping Events/Mapping Social Media" (pages 139-159)
 
-And either or both of:
+**And** one or all of the following:
 
+- Iran (pages 134-139)
 - Egypt (pages 159-171)
 - Japan (pages 171-202)
 
-Write a one paragraph reaction to the book chapter, and come up with one or two questions for the authors. Be prepared to ask your question next week.
+Write a one paragraph reaction to the book chapter and chosen section (Iran, Egypt, or Japan), and come up with one or two questions for the authors. Be prepared to talk about your reaction next week.
