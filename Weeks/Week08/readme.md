@@ -5,8 +5,9 @@
 - Welcome to week 8. Concerns? Questions? Stories to share?
 - Lab: Spatial Autocorrelation
 
-## A Conversation with Adam Millard-Ball
-![Dave](images/dave.jpg)
+## A Conversation with Dave Shepard
+
+<img src="images/dave.jpg" width=400>
 
 # Assignments
 
