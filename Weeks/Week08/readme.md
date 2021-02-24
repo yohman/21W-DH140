@@ -5,7 +5,7 @@
 - Welcome to week 8. Concerns? Questions? Stories to share?
 - Lab: Spatial Autocorrelation
 
-## A Conversation with Dave Shepard
+## A Conversation with Dave "CGD" Shepard
 
 <img src="images/dave.jpg" width=400>
 
