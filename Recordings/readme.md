@@ -7,3 +7,4 @@ These recordings are password protected and only available to students who are c
 - Week 4 [Open street map](https://ucla.zoom.us/rec/share/VdAjL7DtX40lRJqCIgiWCtWfMTFiHasyY-mbvPysma8MueILlyq0RcsKpu-ZPe7Z.tUNIGsnSd4qND7MU?startTime=1611785231000)
 - Week 5 [Open data](https://ucla.zoom.us/rec/share/tlvbOZF_7j0MaP1yvyQVI7ogJ7wLzy2pEQ6exDygaN1QC-9N3HG3pN5ZUKIUeHbC.R5qblTCyNj-50Z7h)
 - Week 6 [Sentiment Analysis and Command line python](https://ucla.zoom.us/rec/share/x2ZxjtP8ZZ21V4Bn5Jo6C-dAaT7v7SHIef11Bt7B0hOuxb1RCgTZfaE-KW_CG1Jz.JY3tTx8W5M5XhZzW?startTime=1613599780000)
+- Week 8 [A Conversation with Dave Shepard (HyperCities) and Spatial Autocorrelation Lab](https://ucla.zoom.us/rec/share/bNYiZwabrlRoX5lzEdOEWx_y648Rci8fs6ktsDdZ5ERADlCRog8-rWleQMr3RoZL.uUl0AiGxwlskIKNz?startTime=1614204639000)
