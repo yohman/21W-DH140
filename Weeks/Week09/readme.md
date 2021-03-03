@@ -1,11 +1,10 @@
 # Week 9 Agenda
 
-- [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
-- Welcome to week 8. Concerns? Questions? Stories to share?
+- [DH140 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
+- Welcome to week 9. Concerns? Questions? Stories to share?
 - Hackathon Part 2
 - Break
 - Spatial Analysis: Point Patterns
-- Who is Eleanor?
 
 ## Next week's guest speaker: Albert Kochaphum
 
@@ -24,7 +23,7 @@ This assignment will focus on some of the more advanced spatial analyses techniq
 
 and/or...
 
-- Conduct a thorough point pattern analysis of your dataset. Your notebook should include a KDE plot, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. kde plots for different categorical values).
+- Conduct a thorough point pattern analysis of your dataset. Your notebook should include a combination of joinplots, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. plots for different categorical values).
 
 - optionally, you are welcome to explore other spatial analysis approaches not covered in class that you think would better address your research inquiry. Make sure to meet with me with a proposal for an alternative methodology.
 
