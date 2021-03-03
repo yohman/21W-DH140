@@ -23,7 +23,7 @@ This assignment will focus on some of the more advanced spatial analyses techniq
 
 and/or...
 
-- Conduct a thorough point pattern analysis of your dataset. Your notebook should include a KDE plot, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. kde plots for different categorical values).
+- Conduct a thorough point pattern analysis of your dataset. Your notebook should include a combination of joinplots, as well as a centrography analysis, indicating central tendencies of your data (mean, median, ellipse). Include different "slices" of your data to produce meaningful results (e.g. plots for different categorical values).
 
 - optionally, you are welcome to explore other spatial analysis approaches not covered in class that you think would better address your research inquiry. Make sure to meet with me with a proposal for an alternative methodology.
 
