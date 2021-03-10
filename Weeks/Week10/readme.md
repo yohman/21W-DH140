@@ -1,14 +1,15 @@
 # Week 10: Remote Sensing
 
 <img src="images/remote2.png">
+
 ## Agenda
-- [UP206A Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-UP206A&urlpath=tree%2F21W-UP206A%2F&branch=master)
+
+- [DH140 Git Puller](https://jupyter.idre.ucla.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fyohman%2F21W-DH140&urlpath=tree%2F21W-DH140%2F&branch=master)
 - A conversation with Albert and Ben
 - A 311 Remembrance
 - --break--
 - Story maps guide
 - Lab 1: Remote Sensing
-- Lab 2: Sentiment Analysis (time permitting)
 
 # Final project guidelines review
 
