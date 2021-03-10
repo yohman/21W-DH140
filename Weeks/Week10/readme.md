@@ -13,6 +13,7 @@
 
 # Final project guidelines review
 
+- Final presentation will begin at **2pm on March 17**
 - Every group will present for no more than **8 minutes**
 - Allow each group member roughly equal time to speak
 - Groups will typically choose to present their storymap (if you choose to present in different format, let me know)
