@@ -13,8 +13,11 @@
 
 # Final project guidelines review
 
-- All materials are to be submitted no later than 2pm on Monday of Finals Week
-   - A link to your story map
+- Every group will present for no more than **8 minutes**
+- Allow each group member roughly equal time to speak
+- Groups will typically choose to present their storymap (if you choose to present in different format, let me know)
+- All materials are to be submitted no later than 2pm on Wednesday of Finals Week (March 17)
+   - A link to your story map (make sure to make it public)
    - Link(s) to your Jupyter Notebooks on github
    - Link(s) to your Jupyter Notebook(s) on Jupyter Hub
 - [Final project guidelines](../../Midterm%20and%20Finals/readme.md)
