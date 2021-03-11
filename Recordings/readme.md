@@ -9,3 +9,4 @@ These recordings are password protected and only available to students who are c
 - Week 6 [Sentiment Analysis and Command line python](https://ucla.zoom.us/rec/share/x2ZxjtP8ZZ21V4Bn5Jo6C-dAaT7v7SHIef11Bt7B0hOuxb1RCgTZfaE-KW_CG1Jz.JY3tTx8W5M5XhZzW?startTime=1613599780000)
 - Week 8 [A Conversation with Dave Shepard (HyperCities) and Spatial Autocorrelation Lab](https://ucla.zoom.us/rec/share/bNYiZwabrlRoX5lzEdOEWx_y648Rci8fs6ktsDdZ5ERADlCRog8-rWleQMr3RoZL.uUl0AiGxwlskIKNz?startTime=1614204639000)
 - Week 9 [Hackathon and Point Patter analysis](https://ucla.zoom.us/rec/share/6ogHl3RRjzgbghTv1YJ-x4kXfT-n6lAZodFq4bX89zAVwInGrlZXTbVjjdklnrIW.2Mf1fLhmv2grxSow?startTime=1614809191000)
+- Week 10 [A Conversation with Ben, Albert; Japan Disasters Remembrance; Remote Sensing Lab](https://ucla.zoom.us/rec/share/BOdYMxwAKmciP1oK7OsXhHJ5FrHDF6n9s9HliEeF_K-uEfuFhAd2Xb4eMmLdkU8E.KkO8RM00RfTv3Nyo?startTime=1615413872000)
